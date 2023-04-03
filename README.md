@@ -18,7 +18,7 @@ Django, Django REST framework, Simple JWT, React, Redux, TypeScript, MySQL.
 2. `Navigate to the back-end directory`: 
      cd Back-end
 3. `Create virtual environment`:  
-      py -m virtualenv myenv
+     py -m virtualenv myenv
 4. `Activate the created virtual environment`:
       myenv\Scripts\activate
 5. `Install the project dependencies`:
