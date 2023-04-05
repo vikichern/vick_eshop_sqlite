@@ -6,7 +6,7 @@ For the back-end - the Django framework API and Simple JWT for handling user aut
 On the front-end - React with Redux and TypeScript enable a dynamic and responsive user interface.  
 
 * Technologies: 
-Django, Django REST framework, Simple JWT, React, Redux, TypeScript, MySQL.
+Django, Django REST framework, Simple JWT, React, Redux, TypeScript, SQLite.
 
 #  Link to Vickeshop:
       https://luminous-horse-af98a4.netlify.app/
