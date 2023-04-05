@@ -2,7 +2,7 @@
 
 * Description:
 Interior design e-commerce.
-For the back-end - the Django framework API and Simple JWT for handling user authentication and managing data and MySQL as database. 
+For the back-end - the Django framework API and Simple JWT for handling user authentication and managing data and SQLite as database. 
 On the front-end - React with Redux and TypeScript enable a dynamic and responsive user interface.  
 
 * Technologies: 
